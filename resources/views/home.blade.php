@@ -26,4 +26,7 @@
             </div>
         </div>
     </div>
+    <div>
+        <h1>Salu momo</h1>
+    </div>
 </x-app-layout>
